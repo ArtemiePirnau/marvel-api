@@ -1,6 +1,5 @@
 # Description
-"Book List" application, where you can add (book title, author, ISBN). You can still delete the book from the list.
-The last book added is saved in localStorage 
+In this application you do a search among all the characters of Marvel series
 # Installation
 First of all install all npm packages with the command:
 ```
